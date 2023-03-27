@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-22T15:13:53 IST" name="Default suite" finished-at="2023-03-22T15:14:17 IST" duration-ms="23909">
+    <groups>
+    </groups>
+    <test started-at="2023-03-22T15:13:53 IST" name="Default test" finished-at="2023-03-22T15:14:17 IST" duration-ms="23909">
+      <class name="bddStyle.GetBdd">
+        <test-method signature="getAllEmployess()[pri:0, instance:bddStyle.GetBdd@49912c99]" started-at="2023-03-22T15:13:53 IST" name="getAllEmployess" finished-at="2023-03-22T15:14:17 IST" duration-ms="23851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployess -->
+      </class> <!-- bddStyle.GetBdd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
